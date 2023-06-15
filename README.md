@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-gurnani&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-gurnani" /> </p>
 
 
-- 🌱 I’m currently learning **ABout Frontend stuff & web3 space**
+- 🌱 I’m currently learning **About Frontend stuff & web3 space**
 
 - 📝 I regularly write articles on [https://hiteshgurnani.hashnode.dev/](https://hiteshgurnani.hashnode.dev/)
 
