@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **About Frontend stuff & web3 space**
 
-- 📝 I regularly write articles on [https://hiteshgurnani.hashnode.dev/](https://hiteshgurnani.hashnode.dev/)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
